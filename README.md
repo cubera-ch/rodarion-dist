@@ -39,7 +39,7 @@ The Rodarion CLI is made by Cubera Solutions AG, General-Wille-Strasse 96,
 8706 Feldmeilen, Switzerland ([info@cubera.ch](mailto:info@cubera.ch),
 [www.rodarion.com](https://www.rodarion.com)).
 
-- **Support period:** until 27 July 2031. Security updates ship as new releases,
+- **Support period:** at least until 27 July 2031. Security updates ship as new releases,
   so always use the latest one.
 - **Security vulnerabilities:** report them to
   [security@cubera.ch](mailto:security@cubera.ch). Our
